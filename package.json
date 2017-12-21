@@ -1,0 +1,15 @@
+{
+  "name": "dark-space-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Dark blue colored theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/dark-space-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
